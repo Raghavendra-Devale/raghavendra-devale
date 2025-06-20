@@ -1,6 +1,6 @@
 <!-- README for Raghavendra M Devale - Full-Stack Developer in Progress 🚀 -->
 
-<h1 align="center">Hey there, I'm Raghavendra Deval👋</h1>
+<h1 align="center">Hey there, I'm Raghavendra Devale👋</h1>
 <h3 align="center">💻 Full-Stack Developer (Java + React) | ☕ Java Enthusiast | 📘 Lifelong Learner</h3>
 
 <p align="center">
