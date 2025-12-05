@@ -1,7 +1,7 @@
 <!-- README for Raghavendra M Devale - Full-Stack Developer in Progress 🚀 -->
 
 <h1 align="center">Hey there, I'm Raghavendra Devale👋</h1>
-<h3 align="center">💻 Full-Stack Developer (Java + React) | ☕ Java Enthusiast | 📘 Lifelong Learner</h3>
+<h3 align="center">💻 Full-Stack Developer (Java + Angular) | ☕ Java Enthusiast | 📘 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code.+Build.+Ship.+Repeat.;Java+%26+React+Full-Stack+Developer;Leveling+Up+Every+Day" alt="Typing SVG" />
@@ -21,7 +21,7 @@ I'm **Raghavendra M Devale**, a **Computer Science Engineering graduate** with a
 
 🎯 My focus areas:
 - Java + Spring Boot (API, MVC, layered architecture)
-- React.js for modern, clean UIs
+- Angular for modern, clean UIs
 - Core CS (OOP, DBMS, Networking, DSA)
 
 ---
@@ -29,7 +29,7 @@ I'm **Raghavendra M Devale**, a **Computer Science Engineering graduate** with a
 ## 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,python,git,github,mysql,postman,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,angular,react,python,git,github,mysql,postman,linux,vscode" />
 </p>
 
 ---
