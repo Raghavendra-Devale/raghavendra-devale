@@ -4,7 +4,7 @@
 <h3 align="center">💻 Full-Stack Developer (Java + Angular) | ☕ Java Enthusiast | 📘 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code.+Build.+Ship.+Repeat.;Java+%26+React+Full-Stack+Developer;Leveling+Up+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code.+Build.+Ship.+Repeat.;Java+%26+Angular+Full-Stack+Developer;Leveling+Up+Every+Day" alt="Typing SVG" />
 </p>
 
 <p align="center">
