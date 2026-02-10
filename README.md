@@ -1,14 +1,18 @@
-<!-- README for Raghavendra M Devale - Full-Stack Developer in Progress 🚀 -->
+<!-- README for Raghavendra Devale -->
 
-<h1 align="center">Hey there, I'm Raghavendra Devale👋</h1>
+<h1 align="center">Hey there, I'm Raghavendra Devale 👋</h1>
+
 <h3 align="center">
-Software Development Engineer 💻| Java • Spring Boot • Angular • PostgreSQL  
-Build. Break. Panic. Learn. Improve.
+Software Developer 💻 | SDE Trainee  
+Curious about systems, problems, and how things actually work
 </h3>
 
+<p align="center">
+<strong>Build. Break. Learn. Improve.</strong>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code.+Build.+Ship.+Repeat.;Java+%26+Angular+Full-Stack+Developer;Leveling+Up+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Build.+Break.+Learn.+Improve.;Software+Developer+in+Progress;Understanding+Systems+End+to+End" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,62 +23,79 @@ Build. Break. Panic. Learn. Improve.
 
 ## 🚀 About Me
 
-I’m **Raghavendra M Devale**, currently working as an **SDE Trainee**, focused on building and understanding complete software systems.
+I’m **Raghavendra Devale**, currently working as an **SDE Trainee**.
 
-I enjoy working end-to-end — designing APIs, working with databases, and building user-facing features — while learning how real-world systems are built, deployed, and maintained.
+I’m interested in understanding how software systems work end-to-end — from data and APIs to user-facing features and overall system behavior.
 
-I learn by **building things, breaking them, fixing them, and improving them**.
+I enjoy learning by doing: building features, breaking things, debugging issues, and refining solutions until they make sense.  
+Rather than tying myself to a single role or technology, I focus on fundamentals that apply across systems.
 
-🛠️ I enjoy turning ideas into working systems — from crafting responsive user interfaces to developing robust backend APIs.
-
-🎯 My focus areas:
-- Java + Spring Boot (API, MVC, layered architecture)
-- Angular for modern, clean UIs
-- Core CS (OOP, DBMS, Networking, DSA)
+🛠️ I like turning ideas into working software — and learning what *doesn’t* work along the way.
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🧠 What I Work On
+
+- Designing and implementing backend services  
+- Building clean, usable user interfaces  
+- Working with databases and data models  
+- Strengthening problem-solving and core CS fundamentals  
+- Understanding how real-world systems are structured  
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,angular,react,python,git,github,mysql,postman,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,html,css,js,postgres,mysql,git,github,postman,linux,vscode" />
 </p>
 
 ---
 
 ## ✨ Featured Projects
 
-### 📘 [JavaInterview](https://github.com/Raghavendra-Devale/Learning-Backend)  
-A handpicked collection of Core Java coding questions with explanations — great for interviews and revision.
+### 🔹 AlphaFinSync  
+A backend-focused project exploring how structured data systems are designed and exposed through APIs.
+
+### 🔹 Learning-Backend  
+A curated collection of backend fundamentals and Java concepts, written with clarity and understanding in mind.
+
+### 🔹 PostgreSQL: Zero to Production  
+Notes and experiments focused on treating databases as first-class components of software systems.
+
+### 🔹 Data Structures & Algorithms  
+Problem-solving practice emphasizing reasoning, efficiency, and trade-offs.
 
 ---
 
-## 🧭 My Current Focus
+## 🧭 How I Learn
 
-- 🔹 Building Spring Boot REST APIs with layered architecture  
-- 🔹 Creating responsive UIs with React + Tailwind  
-- 🔹 Writing clean, testable code  
-- 🔹 Strengthening DSA and system design understanding  
-- 🔹 Preparing for real-world engineering interviews
+I learn best by building things and iterating on them.  
+Most repositories here reflect that process — including mistakes, improvements, and evolving understanding.
+
+Not everything here is polished.  
+Everything here is intentional.
 
 ---
 
 ## 🤝 Let’s Connect!
 
 <p align="left">
-  <a href="mailto:raghavendradevale07@gmail.com"><img src="https://img.shields.io/badge/email-raghavendradevale07@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/raghavendra-devale/"><img src="https://img.shields.io/badge/linkedin-raghavendra--devale-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:raghavendradevale07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-raghavendradevale07@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/raghavendra-devale/">
+    <img src="https://img.shields.io/badge/LinkedIn-raghavendra--devale-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ A Little Extra
 
-- 🧩 Love solving logical problems  
-- 🎧 Code best with lo-fi beats and a hot coffee  
-- 🌱 Believe in consistent growth, not overnight success
-
----
+- 🧩 Enjoy solving logical and system-oriented problems  
+- 🎧 Code best with music and a cup of coffee  
+- 🌱 Believe in consistent progress over shortcuts  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
