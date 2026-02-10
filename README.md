@@ -15,7 +15,11 @@
 
 ## 🚀 About Me
 
-I'm **Raghavendra M Devale**, a **Computer Science Engineering graduate** with a solid foundation in full-stack development and a passion for building impactful software.
+I’m **Raghavendra M Devale**, currently working as an **SDE Trainee**, focused on building and understanding complete software systems.
+
+I enjoy working end-to-end — designing APIs, working with databases, and building user-facing features — while learning how real-world systems are built, deployed, and maintained.
+
+I learn by **building things, breaking them, fixing them, and improving them**.
 
 🛠️ I enjoy turning ideas into working systems — from crafting responsive user interfaces to developing robust backend APIs.
 
@@ -36,13 +40,8 @@ I'm **Raghavendra M Devale**, a **Computer Science Engineering graduate** with a
 
 ## ✨ Featured Projects
 
-### 📘 [JavaInterview](https://github.com/Raghavendra-Devale/JavaInterview)  
+### 📘 [JavaInterview](https://github.com/Raghavendra-Devale/Learning-Backend)  
 A handpicked collection of Core Java coding questions with explanations — great for interviews and revision.
-
----
-
-### 📚 [Placement (Prep-Smart)](https://github.com/Raghavendra-Devale/Placement)  
-Complete guide for CS/IT placement prep — DSA, core subjects, aptitude, interview strategy, and more.
 
 ---
 
