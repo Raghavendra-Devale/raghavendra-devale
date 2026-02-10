@@ -1,7 +1,11 @@
 <!-- README for Raghavendra M Devale - Full-Stack Developer in Progress 🚀 -->
 
 <h1 align="center">Hey there, I'm Raghavendra Devale👋</h1>
-<h3 align="center">💻 Full-Stack Developer (Java + Angular) | ☕ Java Enthusiast | 📘 Lifelong Learner</h3>
+<h3 align="center">
+Software Development Engineer 💻| Java • Spring Boot • Angular • PostgreSQL  
+Build. Break. Panic. Learn. Improve.
+</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code.+Build.+Ship.+Repeat.;Java+%26+Angular+Full-Stack+Developer;Leveling+Up+Every+Day" alt="Typing SVG" />
